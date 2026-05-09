@@ -37,9 +37,7 @@ env/
 *~
 .DS_Store
 
-# Project specific
-results/data/*.csv
-results/figures/*.png
+# Project specific - EXCLUDE
 emissions.csv
 *.log
 
@@ -48,3 +46,7 @@ emissions.csv
 
 # Config files with sensitive data
 config/config.ini
+
+# NOTE: Results are tracked in git to show benchmark outputs
+# results/data/ - CSV benchmark results
+# results/figures/ - PNG visualization charts
