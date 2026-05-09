@@ -1,0 +1,10 @@
+requests
+pyparsing
+htmldom
+AdvancedHTMLParser
+tinycss
+numpy
+matplotlib
+torch
+codecarbon
+tqdm
