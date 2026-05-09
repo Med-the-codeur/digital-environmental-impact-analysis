@@ -44,8 +44,7 @@ emissions.csv
 # CodeCarbon
 .codecarbon.json
 
-# Config files with sensitive data
-config/config.ini
+
 
 # NOTE: Results are tracked in git to show benchmark outputs
 # results/data/ - CSV benchmark results
